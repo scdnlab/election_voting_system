@@ -1,0 +1,152 @@
+body {
+color: #000000; font-family: Arial, Tahoma, Verdana, sans-serif;
+background: #E8E8E8;
+font-size: 14px
+
+}
+
+p {
+margin: 0px 0px 10px 0px;
+}
+h1 {
+    font-family: Impact, Arial, Tahoma;
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 0px 5px 0px;    
+}
+h2 {    
+    color: #FF3803;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;    
+}
+h3 {    
+    color: #61A500;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;    
+}
+
+/* link color */
+a {
+color: #0066FF;
+text-decoration: none;
+outline: none;
+
+}
+
+a:hover {
+color: #ff6633;
+text-decoration: none;
+}
+
+a img, :link img, :visited img {
+border:0px none; 
+}
+a img { 
+border:0px none; 
+}
+
+
+.blue {
+color: #006699; 
+text-decoration: none;
+}
+a.blue:hover {
+color: #993333; 
+text-decoration: none;
+}
+
+
+.grey {
+color: #777777; 
+text-decoration: none;
+}
+
+.red {
+color: #FF0000; 
+text-decoration: none;
+}
+a.red:hover {
+color: #006699; 
+text-decoration: none;
+}
+
+/* end link color */
+
+/* form elements */
+
+input { 
+font-family: Verdana;
+font-size: 12px;
+color: #006699;
+background-color: #ffffff;
+border: 1px #A5A5A5 solid;
+padding: 2px;
+}
+.noborder {
+border: 0px none;
+background-color: transparent; 
+color: #0000FF
+}
+input:focus, textarea:focus {
+border: 1px #79AF2A solid;
+background:#F6FFEA;
+color: #002404;
+}
+select:focus {
+background-color: #ffffff;
+}
+input.submit { 
+font-family: Verdana;
+letter-spacing: 3px;
+color: #0066FF;
+background-color: #ffffff;
+border: 1px #B0B0B0 solid;
+height: 22px;
+}
+input.submit:hover {
+color: #ff6633;
+background-color: #f5f5f5;
+border: 1px #B0B0B0 solid; 
+cursor: pointer;
+}
+select {
+font-family: Verdana;
+color: #006699;
+border: 1px #A5A5A5 solid;
+font-size: 12px;
+height: 20px;
+padding: 2px;
+}
+textarea { 
+font-family: Verdana;
+font-size: 12px;
+color: #006699;
+background-color: #ffffff;
+border: 1px #A5A5A5 solid;
+}
+legend {
+}
+fieldset {
+border: 1px solid #EBD9C1;
+
+
+}
+.label {
+font-weight: normal;
+font-size: 14px; 
+color: #006699; 
+text-decoration: none
+}
+
+#view_order
+{
+    width:100%;
+    float:center;
+
+    padding:1px;
+}
+
+/* end form elements */

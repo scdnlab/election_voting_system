@@ -1,0 +1,57 @@
+Aminul Islam,2006331038,2007-2008,A
+A. M. S. Rezuan,2006331041,2007-2008,A
+Asie Uzzaman,2006331059,2007-2008,A
+Asish Pal,2006331060,2007-2008,A
+Md. Zulfiker Ali         ,2007331001,2007-2008,A
+Md Saad Salehin          ,2007331002,2007-2008,A
+Chandan Howlader         ,2007331003,2007-2008,A
+Saurav Kumar Saha        ,2007331004,2007-2008,A
+Asif Mohammed Samir      ,2007331005,2007-2008,A
+Md. Maksud Hossain       ,2007331006,2007-2008,A
+Arun Krishna Paul        ,2007331007,2007-2008,A
+Marium- E- Jannat        ,2007331008,2007-2008,A
+Sayma Sultana Chowdhury  ,2007331009,2007-2008,A
+Zayeed Ahmed Chowdhury   ,2007331010,2007-2008,A
+Arafat Rahman            ,2007331011,2007-2008,A
+Fouzia Sultana           ,2007331012,2007-2008,A
+Md Mahmudur Rahman       ,2007331014,2007-2008,A
+Tasnim Ahmed             ,2007331016,2007-2008,A
+Baker Mohammad Anas      ,2007331017,2007-2008,A
+Dipankar Roy             ,2007331018,2007-2008,A
+Sumit Chakrabarty        ,2007331019,2007-2008,A
+Madhusodan Chakraborty   ,2007331021,2007-2008,A
+Fahad Ahmed              ,2007331022,2007-2008,A
+Md. Shahadat Hossain     ,2007331023,2007-2008,A
+Md. Mahfuzur Rahaman     ,2007331024,2007-2008,A
+Tanvir Hossain Khan      ,2007331026,2007-2008,A
+Bhaskar Chowdhury Porag  ,2007331027,2007-2008,A
+Y.M.Rezwanul Mannaf      ,2007331028,2007-2008,A
+Rezwan-Ul-Haque          ,2007331030,2007-2008,A
+Md Asaduzzaman Khan      ,2007331031,2007-2008,A
+Shibbir Ahmed            ,2007331032,2007-2008,A
+Premangshu Biswas        ,2007331033,2007-2008,A
+Touhidul Islam Mannan    ,2007331034,2007-2008,A
+Md. Rezaur Rahman        ,2007331035,2007-2008,A
+S. M. Nowshadur Rahaman  ,2007331036,2007-2008,A
+Md. Al-Amin Sarker       ,2007331038,2007-2008,A
+Md. Mokarrom Hossain     ,2007331039,2007-2008,A
+Md. Rajibur Rahman Raju  ,2007331040,2007-2008,A
+Mohammad Emdadul Hoque   ,2007331042,2007-2008,A
+Md. Nazmul Hossain       ,2007331043,2007-2008,A
+Md. Zafar Ullah          ,2007331044,2007-2008,A
+Tasnim Haider Chaudhury  ,2007331045,2007-2008,A
+Sakib Mohammed Shamim    ,2007331046,2007-2008,A
+Md.Nazmul Alam           ,2007331047,2007-2008,A
+Md. Asif Amin          ,2007331048,2007-2008,A
+Pinku Chandra Roy        ,2007331050,2007-2008,A
+Forhad Ahmed             ,2007331052,2007-2008,A
+Asif Iqbal Sonet         ,2007331053,2007-2008,A
+Roknuzzaman              ,2007331054,2007-2008,A
+Md. Bokhtiar Rahman Rana ,2007331055,2007-2008,A
+Shoeab Ahmed             ,2007331056,2007-2008,A
+Munira Akther            ,2007331057,2007-2008,A
+Omar Faruk Miah          ,2007331058,2007-2008,A
+Ashfak Ahmed             ,2007331059,2007-2008,A
+Dipon Roy                ,2007331060,2007-2008,A
+Dhamendra Dubey,2007331061,2007-2008,A
+Ram Kishor Patel,2007331062,2007-2008,A

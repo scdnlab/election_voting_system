@@ -1,0 +1,26 @@
+version: '3.1'
+services:
+  apache:
+    image: yappabe/apache-php:5.2
+    links:
+        - db
+    environment:
+        DOCUMENT_ROOT: /var/www/app/web
+        ENVIRONMENT: dev
+    ports:
+      - 8080:80
+    volumes:
+      - ./sust_election:/var/www/app/web
+
+  db:
+    image: vsamov/mysql-5.1.73
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: sustcse
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 9090:8080
+
