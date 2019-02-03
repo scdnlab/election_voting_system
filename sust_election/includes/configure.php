@@ -19,7 +19,7 @@
     define('DB_SERVER', 'db');
     define('DB_SERVER_USERNAME', 'root');
     define('DB_SERVER_PASSWORD', 'sustcse');
-    define('DB_DATABASE', 'voting_system');
+    define('DB_DATABASE', 'sust_election');
 
     require_once('smarty/libs/Smarty.class.php');
     require_once(CLASSES_DIR.'/mysmarty.class.php');

@@ -117,7 +117,7 @@ function insert_sort_image($var)
     if($static_order!="")
         $static_str="static_order=".$static_order."&";
     $page_name=$_SESSION['INITIAL_PAGE'.$page_title];
-    echo " <a href='".$page_name.$static_str."sort=$field&order=asc$_SESSION[RETURN_VALUE]'><img src='".BASE_URL."/admin/images/asc.png' align='absbottom' border='0' width='13'></a> <a href='".$page_name.$static_str."sort=$field&order=desc$_SESSION[RETURN_VALUE]'><img src='".BASE_URL."/admin/images/desc.png' align='absbottom' border='0' width='13'></a>";
+    echo " <a href='".$page_name.$static_str."sort=$field&order=asc$_SESSION[RETURN_VALUE]'><img src='/admin/images/asc.png' align='absbottom' border='0' width='13'></a> <a href='".$page_name.$static_str."sort=$field&order=desc$_SESSION[RETURN_VALUE]'><img src='/admin/images/desc.png' align='absbottom' border='0' width='13'></a>";
 }
 
 

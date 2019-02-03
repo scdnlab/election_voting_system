@@ -27,7 +27,7 @@ BODY {
         <param name="allowScriptAccess" value="sameDomain" />
         <param name="movie" value="{$BASE_URL}/login.swf?election_title={$election.title}" />
         <param name="quality" value="high" /><param name="bgcolor" value="#03152D" />
-        <embed src="{$BASE_URL}/login.swf?election_title={$election.title}" quality="hig" bgcolor="#03152D" width="100%" height="100%" name="Untitled" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+        <embed src="/login.swf?election_title={$election.title}" quality="hig" bgcolor="#03152D" width="100%" height="100%" name="Untitled" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
     </object>
 </div>
 {elseif $election.date eq ""}

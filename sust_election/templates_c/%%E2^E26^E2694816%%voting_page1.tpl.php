@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.6, created on 2010-10-04 15:01:18
+<?php /* Smarty version 2.6.6, created on 2019-02-03 21:48:34
          compiled from voting_page1.tpl */ ?>
 <html>
 <head><title><?php echo $this->_tpl_vars['election']['title']; ?>
@@ -33,8 +33,7 @@ BODY {
 /login.swf?election_title=<?php echo $this->_tpl_vars['election']['title']; ?>
 " />
         <param name="quality" value="high" /><param name="bgcolor" value="#03152D" />
-        <embed src="<?php echo $this->_tpl_vars['BASE_URL']; ?>
-/login.swf?election_title=<?php echo $this->_tpl_vars['election']['title']; ?>
+        <embed src="/login.swf?election_title=<?php echo $this->_tpl_vars['election']['title']; ?>
 " quality="hig" bgcolor="#03152D" width="100%" height="100%" name="Untitled" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
     </object>
 </div>
